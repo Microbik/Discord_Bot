@@ -1,5 +1,5 @@
 settings = {
-    'token': 'ODY5MTEzOTQ1Mjk2ODY3MzQ4.YP5fbw.JifNQybr56kVotZy_73BGLcrcag',
+    'token': 'YOUR_TOKEN',
     'bot': 'Stardust',
-    'id': 869113945296867348,
+    'id': 'YOUR_ID',
 }
